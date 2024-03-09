@@ -11,11 +11,11 @@ Ce projet a été réalisé par D-TheProgrammer malheureusement parce que je sui
 
 Le but de ce projet est de réaliser le jeu Sokoban ainsi que son résolveur. Ce dossier comprend :
 
-- Le programme principal se nomme  "projet_sokoban_D-TheProgrammer.c"  et est conçu pour fonctionner avec le fichier "grille.txt" pour ses différentes fonctions. Certaines informations seront affichées sur le terminal à titre informatif et visuel.
+- Le programme principal se nomme  _"projet_sokoban_D-TheProgrammer.c"_  et est conçu pour fonctionner avec le fichier _"grille.txt"_ pour ses différentes fonctions. Certaines informations seront affichées sur le terminal à titre informatif et visuel.
 
-- Un makefile permettant de compiler le code en utilisant la commande "make" dans le terminal et "make clean" pour nettoyer le dossier.
+- Un makefile permettant de compiler le code en utilisant la commande `make` dans le terminal et `make clean` pour nettoyer le dossier.
 
-- Un fichier .txt nommé "README" qui est le document que vous lisez actuellement.
+- Un fichier .txt nommé _"README"_ qui est le document que vous lisez actuellement.
   
 ### 2. <ins> [REGLE / RULES] </ins>
 
@@ -85,11 +85,11 @@ This project was realized by D-TheProgrammer unfortunatelly because i am french 
 
 The purpose of this project is to create the Sokoban game as well as its solver. This directory includes:
 
-- The main program is named "projet_sokoban_D-TheProgramme.c" and is designed to work with the "grille.txt" file for its various functions. Some information will be displayed on the terminal for informational and visual purposes.
+- The main program is named _"projet_sokoban_D-TheProgramme.c"_ and is designed to work with the _"grille.txt"_ file for its various functions. Some information will be displayed on the terminal for informational and visual purposes.
 
 - A makefile for compiling the code using the "make" command in the terminal and "make clean" to clean the directory.
 
-- A .txt file named "README" which is the document you are currently reading.
+- A .txt file named _"README"_ which is the document you are currently reading.
 
 
 
