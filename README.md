@@ -2,6 +2,10 @@
 [French] Projet Solver de Sokoban en C   (D'abord ce sera le README en français, puis en anglais)  
 [English] Image  Steganography Project in Python  (First it will be the French README then the English README After)
 
+### SOMMAIRE / SUMMARY
+- Présentation en francais / Presentation in French
+- Présentation en anglais / Presentation in English
+
 ## [PRESENTATION EN FRANCAIS]
 Le Sokoban est un jeu de réflexion créé en 1982 où un joueur, souvent appelé 'gardien d'entrepôt', doit déplacer des caisses vers des cibles en se déplaçant dans quatre directions : haut, droite, bas et gauche. Le joueur doit être prudent lorsqu'il pousse les caisses, car il ne peut pas les déplacer à travers les murs et n'a pas la force nécessaire pour pousser deux caisses en même temps. Ce casse-tête est très intéressant car le joueur peut se retrouver bloqué, incapable de résoudre la grille. De plus, le nombre de caisses (qui doit être le même que le nombre de cibles finales) peut être illimité, et ces caisses peuvent être disposées sur n'importe quelle cible sans distinction. Malgré sa simplicité apparente, le Sokoban est assez robuste en termes de complexité de résolution, nécessitant parfois des dizaines de milliers de déplacements pour qu'une intelligence artificielle trouve une solution.
 
