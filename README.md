@@ -1,6 +1,6 @@
 # Projet_Sokoban_Solver_In_C
 [French] Projet Solver de Sokoban en C   (D'abord ce sera le README en français, puis en anglais)  
-[English] Image  Steganography Project in Python  (First it will be the French README then the English README After)
+[English] Sokoban Solver Project in C   (First it will be the French README then the English README After)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![AI](https://img.shields.io/badge/AI-Solver-orange)
