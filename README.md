@@ -2,6 +2,10 @@
 [French] Projet Solver de Sokoban en C   (D'abord ce sera le README en français, puis en anglais)  
 [English] Image  Steganography Project in Python  (First it will be the French README then the English README After)
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-Ecosystem-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 #### SOMMAIRE / SUMMARY
 - [Présentation en francais / Presentation in French](#presentation-en-francais)
 - [Démonstration en français /Demonstration in French](#démonstration)
